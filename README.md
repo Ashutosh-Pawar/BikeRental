@@ -60,5 +60,5 @@
 
 
 ```bash
- git clone https://github.com/Ashutosh-Pawar/HotelBooking.git 
+ git clone https://github.com/Ashutosh-Pawar/BikeRental.git 
 ```
